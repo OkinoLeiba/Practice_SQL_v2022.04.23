@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="practice_Job_Hunt">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-FHEHCI8:DESKTOP-FHEHCI8\Owner">
+          <Created>2022-05-22T14:42:21.6098541-04:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-FHEHCI8</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>master</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="practice_CTable_Job_Hunt.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-FHEHCI8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-FHEHCI8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>practice_CTable_Job_Hunt.sql</FullPath>
+        </FileNode>
+        <FileNode Name="practice_Insert_Job_Hunt.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-FHEHCI8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-FHEHCI8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>practice_Insert_Job_Hunt.sql</FullPath>
+        </FileNode>
+        <FileNode Name="practice_CreateDB.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-FHEHCI8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-FHEHCI8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>C:\Users\Owner\Documents\SQL Server Management Studio\practice_CreateDB.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
