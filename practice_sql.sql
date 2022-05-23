@@ -10,7 +10,7 @@ GO
 SET QUOTED_IDENTIFIER ON
 GO
 
-
+test 
 -- Drop the table if it already exists
 IF  OBJECT_ID([Practice_DB], 'U') IS NOT NULL
 DROP TABLE [AdventureWorks2019].[Practice_DB]
